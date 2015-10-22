@@ -12,3 +12,5 @@ Programming Languages
 * Assembly code
 * Bytecode
 * Machine code
+* Type system
+* Lexical scope
